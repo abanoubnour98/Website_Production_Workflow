@@ -1,0 +1,15 @@
+# مراحل التنفيذ الـ13
+
+01. [Research & Discovery — البحث والاستكشاف](STAGES/01_Research_and_Discovery.md)
+02. [SEO Strategy & Architecture — استراتيجية SEO وهيكلة الموقع](STAGES/02_SEO_Strategy_and_Architecture.md)
+03. [Content Planning & Writing — تخطيط وكتابة المحتوى](STAGES/03_Content_Planning_and_Writing.md)
+04. [UX Planning & Wireframing — تخطيط تجربة المستخدم والوايرفريم](STAGES/04_UX_Planning_and_Wireframing.md)
+05. [UI Design — تصميم واجهة المستخدم ونظام التصميم](STAGES/05_UI_Design.md)
+06. [Technical Planning — التخطيط الفني والمعماري](STAGES/06_Technical_Planning.md)
+07. [Frontend Development — تطوير الواجهة الأمامية](STAGES/07_Frontend_Development.md)
+08. [Backend & CMS Development — تطوير الخلفية ونظام إدارة المحتوى](STAGES/08_Backend_and_CMS_Development.md)
+09. [Technical SEO Implementation — تنفيذ SEO التقني](STAGES/09_Technical_SEO_Implementation.md)
+10. [Content Integration — دمج المحتوى داخل الموقع](STAGES/10_Content_Integration.md)
+11. [QA & Testing — ضمان الجودة والاختبار](STAGES/11_QA_and_Testing.md)
+12. [Launch & Deployment — الإطلاق والنشر](STAGES/12_Launch_and_Deployment.md)
+13. [Monitoring & Optimization — المراقبة والتحسين المستمر](STAGES/13_Monitoring_and_Optimization.md)
