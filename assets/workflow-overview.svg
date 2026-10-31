@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">Website Production Workflow — 13 stages</title>
+  <desc id="desc">Five connected groups cover discovery and strategy, experience and design, engineering, launch readiness, and continuous growth.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#172D50"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#86EFAC"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#020817" flood-opacity=".28"/>
+    </filter>
+    <style>
+      .title { font: 700 34px Inter,Segoe UI,Arial,sans-serif; fill: #F8FAFC; }
+      .subtitle { font: 400 16px Inter,Segoe UI,Arial,sans-serif; fill: #B6C5DA; letter-spacing: .3px; }
+      .group { font: 700 16px Inter,Segoe UI,Arial,sans-serif; fill: #EAF2FF; letter-spacing: .6px; }
+      .small { font: 600 11px Inter,Segoe UI,Arial,sans-serif; fill: #9FB2CC; letter-spacing: 1.2px; }
+      .num { font: 800 14px Inter,Segoe UI,Arial,sans-serif; fill: #FFFFFF; }
+      .card { font: 600 14px Inter,Segoe UI,Arial,sans-serif; fill: #F8FAFC; }
+      .note { font: 400 12px Inter,Segoe UI,Arial,sans-serif; fill: #AFC0D5; }
+      .arrow { stroke: #7791B4; stroke-width: 2.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="620" rx="28" fill="url(#bg)"/>
+  <circle cx="1450" cy="-15" r="260" fill="#2563EB" opacity=".10"/>
+  <circle cx="70" cy="610" r="250" fill="#0F766E" opacity=".10"/>
+  <path d="M0 125H1600" stroke="#466080" stroke-opacity=".5"/>
+
+  <text x="64" y="68" class="title">Website Production Workflow</text>
+  <text x="66" y="99" class="subtitle">13 connected stages · From first research to continuous improvement</text>
+  <g transform="translate(1280 49)">
+    <rect width="250" height="42" rx="21" fill="#FFFFFF" fill-opacity=".08" stroke="#7892B4" stroke-opacity=".45"/>
+    <circle cx="22" cy="21" r="6" fill="#5EEAD4"/>
+    <text x="40" y="26" class="small" fill="#D6E5F8">STAGE-GATED DELIVERY</text>
+  </g>
+
+  <!-- Group 1 -->
+  <g filter="url(#shadow)">
+    <rect x="54" y="156" width="282" height="376" rx="20" fill="#142844" stroke="#60A5FA" stroke-opacity=".55"/>
+    <rect x="54" y="156" width="282" height="8" rx="4" fill="url(#blue)"/>
+  </g>
+  <text x="78" y="200" class="small">01 — 03</text>
+  <text x="78" y="228" class="group">DISCOVER &amp; PLAN</text>
+  <g>
+    <rect x="76" y="254" width="238" height="66" rx="12" fill="#203B5E"/>
+    <circle cx="101" cy="287" r="15" fill="url(#blue)"/><text x="101" y="292" text-anchor="middle" class="num">01</text>
+    <text x="126" y="284" class="card">Research &amp; Discovery</text><text x="126" y="303" class="note">Market · audience · competitors</text>
+    <rect x="76" y="332" width="238" height="66" rx="12" fill="#203B5E"/>
+    <circle cx="101" cy="365" r="15" fill="url(#blue)"/><text x="101" y="370" text-anchor="middle" class="num">02</text>
+    <text x="126" y="362" class="card">SEO Strategy</text><text x="126" y="381" class="note">Keywords · architecture · links</text>
+    <rect x="76" y="410" width="238" height="66" rx="12" fill="#203B5E"/>
+    <circle cx="101" cy="443" r="15" fill="url(#blue)"/><text x="101" y="448" text-anchor="middle" class="num">03</text>
+    <text x="126" y="440" class="card">Content Planning</text><text x="126" y="459" class="note">Briefs · copy · localization</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M342 344H365m-8-8 8 8-8 8" class="arrow"/>
+
+  <!-- Group 2 -->
+  <g filter="url(#shadow)">
+    <rect x="372" y="156" width="282" height="376" rx="20" fill="#142844" stroke="#5EEAD4" stroke-opacity=".55"/>
+    <rect x="372" y="156" width="282" height="8" rx="4" fill="url(#teal)"/>
+  </g>
+  <text x="396" y="200" class="small">04 — 05</text>
+  <text x="396" y="228" class="group">EXPERIENCE &amp; DESIGN</text>
+  <g>
+    <rect x="394" y="270" width="238" height="78" rx="12" fill="#1D4052"/>
+    <circle cx="419" cy="309" r="15" fill="url(#teal)"/><text x="419" y="314" text-anchor="middle" class="num">04</text>
+    <text x="444" y="306" class="card">UX &amp; Wireframing</text><text x="444" y="326" class="note">Journeys · structure · layouts</text>
+    <rect x="394" y="366" width="238" height="78" rx="12" fill="#1D4052"/>
+    <circle cx="419" cy="405" r="15" fill="url(#teal)"/><text x="419" y="410" text-anchor="middle" class="num">05</text>
+    <text x="444" y="402" class="card">UI Design</text><text x="444" y="422" class="note">Design system · screens · RTL</text>
+  </g>
+  <text x="396" y="492" class="note">Output: approved, build-ready designs</text>
+
+  <!-- Arrow 2 -->
+  <path d="M660 344H683m-8-8 8 8-8 8" class="arrow"/>
+
+  <!-- Group 3 -->
+  <g filter="url(#shadow)">
+    <rect x="690" y="156" width="282" height="376" rx="20" fill="#142844" stroke="#C4B5FD" stroke-opacity=".55"/>
+    <rect x="690" y="156" width="282" height="8" rx="4" fill="url(#violet)"/>
+  </g>
+  <text x="714" y="200" class="small">06 — 08</text>
+  <text x="714" y="228" class="group">ENGINEERING</text>
+  <g>
+    <rect x="712" y="254" width="238" height="66" rx="12" fill="#34315C"/>
+    <circle cx="737" cy="287" r="15" fill="url(#violet)"/><text x="737" y="292" text-anchor="middle" class="num">06</text>
+    <text x="762" y="284" class="card">Technical Planning</text><text x="762" y="303" class="note">Architecture · CMS · APIs</text>
+    <rect x="712" y="332" width="238" height="66" rx="12" fill="#34315C"/>
+    <circle cx="737" cy="365" r="15" fill="url(#violet)"/><text x="737" y="370" text-anchor="middle" class="num">07</text>
+    <text x="762" y="362" class="card">Frontend Development</text><text x="762" y="381" class="note">Components · responsive UI</text>
+    <rect x="712" y="410" width="238" height="66" rx="12" fill="#34315C"/>
+    <circle cx="737" cy="443" r="15" fill="url(#violet)"/><text x="737" y="448" text-anchor="middle" class="num">08</text>
+    <text x="762" y="440" class="card">Backend &amp; CMS</text><text x="762" y="459" class="note">Data · services · publishing</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M978 344H1001m-8-8 8 8-8 8" class="arrow"/>
+
+  <!-- Group 4 -->
+  <g filter="url(#shadow)">
+    <rect x="1008" y="156" width="282" height="376" rx="20" fill="#142844" stroke="#FCD34D" stroke-opacity=".55"/>
+    <rect x="1008" y="156" width="282" height="8" rx="4" fill="url(#amber)"/>
+  </g>
+  <text x="1032" y="200" class="small">09 — 11</text>
+  <text x="1032" y="228" class="group">LAUNCH READINESS</text>
+  <g>
+    <rect x="1030" y="254" width="238" height="66" rx="12" fill="#4A3A2A"/>
+    <circle cx="1055" cy="287" r="15" fill="url(#amber)"/><text x="1055" y="292" text-anchor="middle" class="num">09</text>
+    <text x="1080" y="284" class="card">Technical SEO</text><text x="1080" y="303" class="note">Schema · crawl · index</text>
+    <rect x="1030" y="332" width="238" height="66" rx="12" fill="#4A3A2A"/>
+    <circle cx="1055" cy="365" r="15" fill="url(#amber)"/><text x="1055" y="370" text-anchor="middle" class="num">10</text>
+    <text x="1080" y="362" class="card">Content Integration</text><text x="1080" y="381" class="note">CMS · links · metadata</text>
+    <rect x="1030" y="410" width="238" height="66" rx="12" fill="#4A3A2A"/>
+    <circle cx="1055" cy="443" r="15" fill="url(#amber)"/><text x="1055" y="448" text-anchor="middle" class="num">11</text>
+    <text x="1080" y="440" class="card">QA &amp; Testing</text><text x="1080" y="459" class="note">Validate · fix · retest</text>
+  </g>
+
+  <!-- Arrow 4 -->
+  <path d="M1296 344H1319m-8-8 8 8-8 8" class="arrow"/>
+
+  <!-- Group 5 -->
+  <g filter="url(#shadow)">
+    <rect x="1326" y="156" width="220" height="376" rx="20" fill="#142844" stroke="#86EFAC" stroke-opacity=".55"/>
+    <rect x="1326" y="156" width="220" height="8" rx="4" fill="url(#green)"/>
+  </g>
+  <text x="1350" y="200" class="small">12 — 13</text>
+  <text x="1350" y="228" class="group">OPERATE &amp; GROW</text>
+  <g>
+    <rect x="1348" y="270" width="176" height="78" rx="12" fill="#20473F"/>
+    <circle cx="1373" cy="309" r="15" fill="url(#green)"/><text x="1373" y="314" text-anchor="middle" class="num">12</text>
+    <text x="1398" y="306" class="card">Launch</text><text x="1398" y="326" class="note">Deploy · verify</text>
+    <rect x="1348" y="366" width="176" height="78" rx="12" fill="#20473F"/>
+    <circle cx="1373" cy="405" r="15" fill="url(#green)"/><text x="1373" y="410" text-anchor="middle" class="num">13</text>
+    <text x="1398" y="402" class="card">Optimize</text><text x="1398" y="422" class="note">Measure · improve</text>
+  </g>
+  <text x="64" y="580" class="note">Every stage has defined inputs, specialist skills, deliverables, acceptance criteria, and a documented handoff.</text>
+</svg>
